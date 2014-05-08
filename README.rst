@@ -5,7 +5,8 @@
 Output sample
 =============
 :output: http://naoiwata.bitbucket.org/demo/tinkerbelizeholesidebar/
-
+:source: http://github.com/naoiwata/sphinxjp.themes.tinkerbelizeholesidebar
+:package: https://pypi.python.org/pypi/sphinxjp.themes.tinkerbelizeholesidebar
 
 Feature
 =======
