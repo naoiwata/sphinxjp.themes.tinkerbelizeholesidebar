@@ -47,15 +47,15 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-weight: 400;
 }
 
-h2, h2 pre {
+h2, h2 .pre {
     font-size: 24px;
 }
 
-h3, h3 pre {
+h3, h3 .pre {
     font-size: 22px;
 }
 
-h4, h4 pre {
+h4, h4 .pre {
     font-size: 22px;
 }
 
